@@ -1,0 +1,32 @@
+﻿[
+  {
+    "productId": 1,
+    "productName": "Keychain",
+    "price": 2,
+    "image": "keychain.jpg"
+  },
+  {
+    "productId": 2,
+    "productName": "Art Canvas",
+    "price": 5,
+    "image": "canvas.jpg"
+  },
+  {
+    "productId": 3,
+    "productName": "Sketchbook",
+    "price": 9,
+    "image": "sketchbook.jpg"
+  },
+  {
+    "productId": 4,
+    "productName": "Mini Thinker Replica",
+    "price": 12,
+    "image": "thinker.jpg"
+  },
+  {
+    "productId": 5,
+    "productName": "Art Book",
+    "price": 4,
+    "image": "book.jpg"
+  }
+]
