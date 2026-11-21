@@ -67,7 +67,7 @@ int APIENTRY WinMain(HINSTANCE hInstance, HINSTANCE, LPSTR, int nCmdShow)
     g_hRC = wglCreateContext(g_hDC);
     wglMakeCurrent(g_hDC, g_hRC);
 
-    BuildFont();  // NEW — Win32 font for overlay text
+    BuildFont();  // NEW â€” Win32 font for overlay text
 
     // OpenGL setup
     glClearColor(0, 0, 0, 1);
